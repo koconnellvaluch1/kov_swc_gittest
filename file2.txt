@@ -1,1 +1,2 @@
 file2 needs a first line too
+here's a second line
